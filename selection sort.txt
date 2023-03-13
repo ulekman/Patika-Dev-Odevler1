@@ -10,4 +10,4 @@
 
 O(n.n)
 
-aradığımız sayı ortada olduğundan average case.
+aradığımız sayı ortada olduğundan average casedir.
